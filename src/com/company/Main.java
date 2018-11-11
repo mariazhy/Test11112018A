@@ -6,5 +6,6 @@ public class Main {
 	System.out.print("hi");
 	System.out.print("new branch");
 
+	System.out.print("hi");
     }
 }
